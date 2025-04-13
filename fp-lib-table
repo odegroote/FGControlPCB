@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "functiongenerator")(type "KiCad")(uri "$(KIPRJMOD)/functiongenerator.pretty")(options "")(descr ""))
+)

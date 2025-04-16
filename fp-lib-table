@@ -1,3 +1,5 @@
 (fp_lib_table
+  (version 7)
   (lib (name "functiongenerator")(type "KiCad")(uri "$(KIPRJMOD)/functiongenerator.pretty")(options "")(descr ""))
+  (lib (name "TSR-1-2450")(type "KiCad")(uri "${KIPRJMOD}/TSR-1-2450")(options "")(descr ""))
 )

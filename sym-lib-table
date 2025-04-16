@@ -1,3 +1,5 @@
 (sym_lib_table
+  (version 7)
   (lib (name "functiongenerator-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/functiongenerator-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "TSR_1-2450")(type "KiCad")(uri "${KIPRJMOD}/TSR-1-2450/TSR_1-2450.kicad_sym")(options "")(descr ""))
 )

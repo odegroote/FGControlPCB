@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.2,
-          "height": 2.4,
-          "width": 2.4
+          "drill": 0.7,
+          "height": 1.4,
+          "width": 1.4
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -511,7 +511,7 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.8,
+        "clearance": 0.5,
         "diff_pair_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
@@ -735,7 +735,7 @@
       "meta": {
         "version": 0
       },
-      "model_mode": 0,
+      "model_mode": 4,
       "workbook_filename": ""
     },
     "page_layout_descr_file": "empty.kicad_wks",

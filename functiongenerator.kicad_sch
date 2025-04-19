@@ -5868,7 +5868,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1000"
+		(property "Value" "1k"
 			(at 160.782 127.508 90)
 			(effects
 				(font
@@ -5877,7 +5877,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 163.83 129.54 0)
 			(effects
 				(font
@@ -6295,7 +6295,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_Potentiometer_Trim"
+		(property "Value" "2k"
 			(at 113.7921 158.6921 0)
 			(effects
 				(font
@@ -6377,7 +6377,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 163.83 154.94 0)
 			(effects
 				(font
@@ -6443,7 +6443,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 119.38 114.808 90)
 			(effects
 				(font
@@ -6590,7 +6590,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "FE07-1"
+		(property "Value" "Conn_01x07_Socket"
 			(at 92.71 135.89 0)
 			(effects
 				(font
@@ -7573,7 +7573,6 @@
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Value" "10uF"
@@ -7805,7 +7804,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 124.46 164.338 90)
 			(effects
 				(font
@@ -7872,7 +7871,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 119.38 118.618 90)
 			(effects
 				(font
@@ -8567,7 +8566,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "390"
+		(property "Value" "330"
 			(at 189.484 75.438 90)
 			(effects
 				(font
@@ -8793,7 +8792,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1000"
+		(property "Value" "1k"
 			(at 149.606 117.094 90)
 			(effects
 				(font
@@ -8802,7 +8801,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 152.4 119.38 0)
 			(effects
 				(font
@@ -8868,7 +8867,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 124.46 160.528 90)
 			(effects
 				(font
@@ -9089,7 +9088,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 158.75 109.22 0)
 			(effects
 				(font
@@ -10074,7 +10073,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1000"
+		(property "Value" "1k"
 			(at 165.354 172.72 90)
 			(effects
 				(font
@@ -10083,7 +10082,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 167.64 175.26 0)
 			(effects
 				(font
@@ -10548,7 +10547,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1000"
+		(property "Value" "1k"
 			(at 160.02 167.132 90)
 			(effects
 				(font
@@ -10557,7 +10556,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 157.48 165.1 0)
 			(effects
 				(font
@@ -10626,7 +10625,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal"
+		(property "Footprint" "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type059_RT06303HBWC_1x03_P3.50mm_Horizontal"
 			(at 76.2 71.12 0)
 			(effects
 				(font
@@ -10764,7 +10763,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 105.41 167.64 0)
 			(effects
 				(font
@@ -10832,7 +10831,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 102.87 129.54 0)
 			(effects
 				(font

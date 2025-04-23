@@ -1,4 +1,4 @@
-24750934588789364
+24739095551509180
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +13,13 @@ audio belton reverb
 0
 7
 7
+BNC
+LINX_CONBNC002
+
+
+0
+4
+4
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -92868,6 +92875,13 @@ Logo WEEE
 0
 0
 0
+TSR-1-2450
+CONV_TSR_1-2450
+
+
+0
+3
+3
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -99511,66 +99525,3 @@ Varistor VF
 0
 2
 2
-functiongenerator
-0204_7
-<b>RESISTOR</b><p>{return}type 0204, grid 7.5 mm
-
-0
-2
-2
-functiongenerator
-AMP_227161
-<b>JACK,  RIGHT ANGLE, 50 OHM, PCB, BNC</b><p>{return}Source: amp_227161.pdf
-
-0
-2
-2
-functiongenerator
-C025-030X050
-<b>CAPACITOR</b><p>{return}grid 2.5 mm, outline 3 x 5 mm
-
-0
-2
-2
-functiongenerator
-DIL08
-<b>Dual In Line Package</b>
-
-0
-8
-8
-functiongenerator
-E2,5-7
-<b>ELECTROLYTIC CAPACITOR</b><p>{return}grid 2.54 mm, diameter 7 mm
-
-0
-2
-2
-functiongenerator
-FE07
-<b>FEMALE HEADER</b>
-
-0
-7
-7
-functiongenerator
-MA03-1
-<b>PIN HEADER</b>
-
-0
-3
-3
-functiongenerator
-PT-10
-<b>Trimm Potentiometer</b>
-
-0
-3
-3
-functiongenerator
-SIP3
-<b>INNOLINE DC/DC-Converter</b> 1.0 AMP SIP3 Single Output<p>{return}Source: <a href="http://www.mikrocontroller.net/attachment/150645/157764-da-01-en-DC_DC_WANDLER_R_78C5_0_1_0.pdf"> Data sheet </a>
-
-0
-3
-3

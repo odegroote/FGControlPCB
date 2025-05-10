@@ -5190,7 +5190,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
 			(at 115.57 182.88 0)
 			(effects
 				(font
@@ -5495,7 +5495,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_B3B-XH-AM_1x03_P2.50mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical"
 			(at 147.32 100.33 0)
 			(effects
 				(font
@@ -9810,7 +9810,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
 			(at 105.41 138.43 0)
 			(effects
 				(font
@@ -10083,7 +10083,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_B3B-XH-AM_1x03_P2.50mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical"
 			(at 152.4 147.32 0)
 			(effects
 				(font
@@ -10887,7 +10887,8 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x03")
-		(at 76.2 71.12 180)
+		(at 76.2 71.12 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10895,7 +10896,7 @@
 		(dnp no)
 		(uuid "f0a72f81-a614-40c7-8210-25fa7df689a3")
 		(property "Reference" "SV1"
-			(at 82.804 70.866 0)
+			(at 74.422 72.136 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -10904,7 +10905,7 @@
 			)
 		)
 		(property "Value" "TERM-3"
-			(at 77.47 63.5 0)
+			(at 77.47 78.74 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -10913,7 +10914,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type059_RT06303HBWC_1x03_P3.50mm_Horizontal"
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal"
 			(at 76.2 71.12 0)
 			(effects
 				(font

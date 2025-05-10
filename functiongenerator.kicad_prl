@@ -54,7 +54,7 @@
   "git": {
     "repo_type": "ssh",
     "repo_username": "git",
-    "ssh_key": "D:\\Users\\browser\\.ssh\\id_rsa"
+    "ssh_key": "C:\\Users\\Onno\\.ssh\\id_rsa"
   },
   "meta": {
     "filename": "functiongenerator.kicad_prl",
